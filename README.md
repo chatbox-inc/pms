@@ -1,4 +1,4 @@
-# Github PR Merge Scheduler 
+# PMS - Pull request Merge Scheduler 
 
 ログインする
 PR が見れる
